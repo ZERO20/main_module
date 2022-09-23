@@ -1,0 +1,4 @@
+[submodule "submodules/submodule"]
+	path = submodules/submodule
+	url = https://github.com/ZERO20/submodule.git
+	branch = develop
